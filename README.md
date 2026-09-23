@@ -1,3 +1,6 @@
+> **Coursework context**  
+> This repository is a fork of a Columbia W4111 database-course template/workspace. The instructions below are course-provided material; student work, where present, is contained in the course-specific files and directories.
+
 # S22-W4111-HW-1-0: <br> W4111 - Intro to Databases HW0 and HW1
 
 ## Introduction
